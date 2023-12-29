@@ -1,0 +1,28 @@
+.weatherDetails {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 2rem;
+}
+.weatherDetailsHeader {
+  margin-top: 2rem;
+  display: flex;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.weatherConditionWraper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.weatherConditionName {
+  color: #848f8f;
+}
+
+.weatherConditionValue {
+  color: #f9f8f9;
+}

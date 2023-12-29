@@ -1,0 +1,36 @@
+.logoText {
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 3rem 2rem 5rem 5rem;
+}
+.currentLocationDetails {
+  display: flex;
+}
+
+.weatherdegree {
+  font-size: 8rem;
+}
+.locationName {
+  font-size: 4rem;
+}
+
+.LocationWeatherDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  text-align: left;
+}
+.weatherTimeAndDate {
+  font-size: 20px;
+}
+.weatherCurrentStatus {
+  font-size: 20px;
+}

@@ -1,0 +1,23 @@
+.forecastRoot {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(31, 31, 31, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(20, 20, 20, 0.25);
+  padding: 2rem 1rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.forecastday {
+  background-color: rgba(0, 0, 0, 0.415);
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+}
