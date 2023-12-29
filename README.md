@@ -3,9 +3,8 @@
 Overview:
 The Weather App is a React-based web application that allows users to check the current weather conditions for a given location. It provides real-time weather information, including temperature, humidity, wind speed, and more.
 
-Project Structure:
-lua
-Copy code
+# Project Structure:
+
 |-- src
 | |-- Components
 | |-- LeftSection
@@ -33,7 +32,7 @@ Copy code
 Getting Started:
 Clone the Repository:
 
-bash
+# bash
 Copy code
 git clone https://github.com/priyanshugupta28/weather-app.git
 cd weather-app
@@ -49,7 +48,7 @@ Create a .env file in the project root.
 Add your API key to the .env file:
 env
 
-REACT_APP_API_KEY=your-api-key
+REACT_APP_API_KEY=298565e2ee9d4865a47121048232812
 Run the Application:
 
 bash
