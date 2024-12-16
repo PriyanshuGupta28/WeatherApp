@@ -99,6 +99,6 @@ export const getWeatherHistoryAction =
     } catch (error) {
       console.log(error);
     } finally {
-      // Optional: Any code that needs to be executed regardless of success or failure
+      // Optional: Any code that needs to be executed regardless of success or failure should be here
     }
   };
