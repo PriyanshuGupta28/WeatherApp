@@ -1,5 +1,6 @@
 .rightSection {
-  width: 25rem;
+  box-sizing: border-box;
+  width: 30rem;
   height: 100%;
   background: rgba(31, 31, 31, 0.5);
   -webkit-backdrop-filter: blur(10px);
