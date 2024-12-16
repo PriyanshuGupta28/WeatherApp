@@ -71,7 +71,7 @@ const Home = () => {
         />
       </div>
       {/* Component displaying forecast days */}
-      <ForecastDays />
+      {/* <ForecastDays /> */}
     </div>
   );
 };
